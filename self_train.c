@@ -537,7 +537,7 @@ void recursive_training_loop(int depth, int max_depth) {
     free(batch);
     
     // Recursive call with improvement condition
-    if (best_fitness > MIN_SIMILARITY_THRESHOLD || depth < 3) {
+    if (best_fitness > MIN_SIMILARITY_THRESHOLD || depth < max_depth) {
         recursive_training_loop(depth + 1, max_depth);
     } else {
         printf("Stopping recursion: fitness threshold not met at depth %d\n", depth);
