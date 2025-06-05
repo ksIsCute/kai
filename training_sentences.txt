@@ -3,3 +3,13 @@ My dog likes to go on long walks.
 My dog is a good boy
 My cat likes to take his time in his litter box.
 Python is a good programming language for beginners
+The sky is blue today.
+I like to eat pizza.
+My dog is a brown color.
+I am a happy person.
+I like to play with my cat.
+The weather is nice today.
+I like to listen to music.
+My cat is a good kitty.
+I am a good person.
+The day is nice today.
