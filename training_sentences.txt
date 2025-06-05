@@ -1,53 +1,53 @@
-I see a red car.
-The cat is big.
-My mom likes tea.
-Birds fly high.
-Dogs are fun pets.
-The sun is hot.
-I have two hands.
-Water is wet.
-Trees are green.
-Fish swim fast.
-Quantum mechanics fascinates theoretical physicists worldwide.
-Seventeen elephants migrated across dangerous savannah territories yesterday.
-The boy runs to school every morning.
-Cryptocurrency markets fluctuate unpredictably during economic uncertainty periods.
-She has a new blue dress.
-Ancient civilizations built magnificent pyramids using primitive construction techniques.
-We eat lunch at noon.
-Sophisticated algorithms analyze enormous datasets for commercial applications.
-The small dog barks loudly.
-Hummingbirds hover gracefully near vibrant tropical flowering plants.
-My friend likes ice cream.
-Artificial intelligence revolutionizes medical diagnostic procedures rapidly.
-The door is open now.
-Submarines navigate treacherous underwater caverns silently.
-He plays with his toy car.
-Mathematical equations describe complex astronomical phenomena accurately.
-The baby sleeps peacefully.
-Industrial robots manufacture precision components efficiently.
-I walk to the park.
-Volcanic eruptions devastate surrounding ecosystems temporarily.
-The apple tastes sweet.
-Professional musicians compose intricate symphonies using digital instruments.
-We have three cats at home.
-Archaeologists excavate prehistoric artifacts carefully from burial sites.
-The book is on the table.
-Genetic engineering modifies agricultural crops for enhanced nutrition.
-She wears a warm coat.
-Migratory whales communicate through sophisticated sonar systems.
-The train arrives at five.
-Renewable energy sources replace fossil fuels gradually.
-My dad works hard every day.
-Microscopic bacteria inhabit extreme environmental conditions successfully.
-The flower smells nice.
-Space telescopes observe distant galaxies billions of lightyears away.
-We play games together.
-Culinary experts prepare exotic delicacies using molecular gastronomy.
-The mouse is very small.
-Antarctic researchers study climate change effects on polar ice.
-I drink water when thirsty.
-Neural networks process language patterns through deep learning.
+I observe a crimson automobile parked near the intersection.
+The feline creature possesses an imposing, muscular physique.
+My mother savors aromatic chamomile infusion in the evenings.
+Avian species soar effortlessly through the azure firmament.
+Canines prove to be exceptionally entertaining domesticated companions.
+The solar orb radiates scorching, blistering heat waves.
+I possess a pair of dexterous, opposable-thumbed extremities.
+H₂O molecules exhibit cohesive, adhesive liquid properties.
+Deciduous and coniferous flora display verdant, chlorophyll-rich foliage.
+Piscean organisms propel themselves with remarkable hydrodynamic efficiency.
+Quantum field theory captivates astrophysicists specializing in subatomic phenomena.
+A herd of seventeen pachyderms traversed perilous, drought-stricken grasslands.
+The adolescent sprints briskly toward the educational institution at dawn.
+Blockchain-based digital assets experience volatile, erratic valuation shifts.
+She dons an exquisite cerulean gown adorned with intricate embroidery.
+Prehistoric societies engineered colossal pyramidal monuments via rudimentary engineering.
+We consume our midday repast punctually at solar zenith.
+Machine learning classifiers parse exabytes of unstructured metadata.
+The diminutive canine emits cacophonous, reverberating vocalizations.
+Trochilidae suspend aerodynamically amidst nectar-laden inflorescences.
+My comrade exhibits a predilection for frozen dairy confections.
+Deep neural networks are revolutionizing radiological image segmentation.
+The oaken portal remains ajar, permitting ingress and egress.
+Nuclear submarines maneuver stealthily through abyssal trenches.
+The toddler manipulates his miniature die-cast vehicle enthusiastically.
+Partial differential equations model celestial body orbital mechanics.
+The neonate slumbers tranquilly in her bassinet.
+Automated assembly lines fabricate micron-tolerance aerospace components.
+I meander leisurely through the verdant municipal recreation area.
+Pyroclastic flows decimate proximal biomes temporarily post-eruption.
+The Malus domestica cultivar bursts with saccharine, juicy pulp.
+Virtuoso arrangers orchestrate polyphonic masterpieces via MIDI controllers.
+Our household shelters a trio of domesticated Felis catus specimens.
+Anthropologists meticulously unearth Neolithic funerary artifacts.
+The leather-bound tome rests atop the mahogany escritoire.
+Recombinant DNA technology enhances staple crop nutritional density.
+She layers herself in an insulated, down-filled parka.
+Cetacean megafauna employ echolocation for transoceanic navigation.
+The locomotive is scheduled for arrival at seventeen hundred hours.
+Photovoltaic arrays are progressively supplanting carbon-based combustibles.
+My paternal figure labors assiduously in the corporate sector.
+Extremophiles thrive in geothermal hydrothermal vent ecosystems.
+The blossom exudes an intoxicating, jasmine-like fragrance.
+Orbital observatories detect quasars at cosmological redshifts.
+We engage in collaborative ludic activities during recreation.
+Haute cuisine practitioners employ spherification and gelification techniques.
+The murine rodent exhibits minuscule, Lilliputian proportions.
+Glaciologists monitor crevasse formation via interferometric radar.
+I hydrate with purified alkaline water during periods of thirst.
+Transformer architectures process semantic embeddings bidirectionally.
 The house has four rooms.
 Endangered species require immediate conservation efforts globally.
 My sister likes to sing.
@@ -65,7 +65,7 @@ Coral reefs support diverse marine ecosystem biodiversity.
 We have a pet rabbit.
 Nanotechnology enables precise material manipulation at atomic levels.
 The clock shows the time.
-Gravitational waves confirm Einstein's relativity theories experimentally.
+Gravitational waves confirm Einsteins relativity theories experimentally.
 My bag is heavy today.
 Urban planners design sustainable metropolitan infrastructure systems.
 The river flows slowly.
@@ -198,3 +198,98 @@ I wave goodbye to friends.
 Nuclear physicists investigate fundamental particle interactions.
 The rainbow has pretty colors.
 Dendrochronologists date historical events using tree rings.
+I observe a crimson automobile parked near the intersection.
+The feline creature possesses an imposing, muscular physique.
+My mother savors aromatic chamomile infusion in the evenings.
+Avian species soar effortlessly through the azure firmament.
+Canines prove to be exceptionally entertaining domesticated companions.
+The solar orb radiates scorching, blistering heat waves.
+I possess a pair of dexterous, opposable-thumbed extremities.
+H₂O molecules exhibit cohesive, adhesive liquid properties.
+Deciduous and coniferous flora display verdant, chlorophyll-rich foliage.
+Piscean organisms propel themselves with remarkable hydrodynamic efficiency.
+Quantum field theory captivates astrophysicists specializing in subatomic phenomena.
+A herd of seventeen pachyderms traversed perilous, drought-stricken grasslands.
+The adolescent sprints briskly toward the educational institution at dawn.
+Blockchain-based digital assets experience volatile, erratic valuation shifts.
+She dons an exquisite cerulean gown adorned with intricate embroidery.
+Prehistoric societies engineered colossal pyramidal monuments via rudimentary engineering.
+We consume our midday repast punctually at solar zenith.
+Machine learning classifiers parse exabytes of unstructured metadata.
+The diminutive canine emits cacophonous, reverberating vocalizations.
+Trochilidae suspend aerodynamically amidst nectar-laden inflorescences.
+My comrade exhibits a predilection for frozen dairy confections.
+Deep neural networks are revolutionizing radiological image egmentation.
+The oaken portal remains ajar, permitting ingress and egress.
+Nuclear submarines maneuver stealthily through abyssal trenches.
+The toddler manipulates his miniature die-cast vehicle enthusiastically.
+Partial differential equations model celestial body orbital mechanics.
+The neonate slumbers tranquilly in her bassinet.
+Automated assembly lines fabricate micron-tolerance aerospace components.
+I meander leisurely through the verdant municipal recreation area.
+Pyroclastic flows decimate proximal biomes temporarily post-eruption.
+The Malus domestica cultivar bursts with saccharine, juicy pulp.
+Virtuoso arrangers orchestrate polyphonic masterpieces via MIDI controllers.
+Our household shelters a trio of domesticated Felis catus specimens.
+Anthropologists meticulously unearth Neolithic funerary artifacts.
+The leather-bound tome rests atop the mahogany escritoire.
+Recombinant DNA technology enhances staple crop nutritional density.
+She layers herself in an insulated, down-filled parka.
+Cetacean megafauna employ echolocation for transoceanic navigation.
+The locomotive is scheduled for arrival at seventeen hundred hours.
+Photovoltaic arrays are progressively supplanting carbon-based combustibles.
+My paternal figure labors assiduously in the corporate sector.
+Extremophiles thrive in geothermal hydrothermal vent ecosystems.
+The blossom exudes an intoxicating, jasmine-like fragrance.
+Orbital observatories detect quasars at cosmological redshifts.
+We engage in collaborative ludic activities during recreation.
+Haute cuisine practitioners employ spherification and gelification techniques.
+The murine rodent exhibits minuscule, Lilliputian proportions.
+Glaciologists monitor crevasse formation via interferometric radar.
+I hydrate with purified alkaline water during periods of thirst.
+Transformer architectures process semantic embeddings bidirectionally.
+Lee Jae-myung is a South Korean politician and lawyer who has served as the 14th president of South Korea since 2025. Lee previously held office as the governor of Gyeonggi Province from 2018 to 2021, as the leader of the Democratic Party from 2022 to 2025, and as the member of the National Assembly for Gyeyang B from 2022 to 2025.
+Born to a poor family in Andong, Lee became a factory worker after primary school and became disabled due to workplace injuries. Lee earned middle and high school equivalency diplomas and studied at Chung-Ang University, earning his law degree in 1986. As a human rights and labour lawyer, Lee organized with Minbyun and advocated for opening a new hospital in Seongnam.
+Lee entered politics in 2005 and unsuccessfully contested a few elections. He was elected Mayor of Seongnam in 2010 and re-elected in 2014. He first ran for the presidency in 2017, losing the Democratic nomination to Moon Jae-in. Lee resigned as mayor in 2018 for a successful run for Governor of Gyeonggi Province; he would resign as governor in 2021. Lee ran for president in 2022, winning the party nomination, but narrowly losing to Yoon Suk Yeol of the People Power Party in the general election.
+In January 2024, Lee survived an assassination attempt. In November, he was convicted of violating the Public Official Election Act by falsely denying his connection with Kim Moon-ki, a former executive of Seongnam Development Corporation, during his 2022 presidential campaign. During the 2024 South Korean martial law crisis, Lee gained international attention for climbing the National Assembly building fence and documenting the event in a livestream. 
+He subsequently played a significant role in leading the impeachment against President Yoon. 
+Upon the termination of Yoons presidency by the Constitutional Court of Korea, Lee mounted a third campaign for the presidency in 2025, winning the DPK nomination and defeating PPP nominee Kim Moon-soo in the general election. 
+The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. 
+It is a federal republic of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean. It is a megadiverse country, with the worlds third-largest land area[c] and third-largest population, exceeding 340 million.[k] Its three largest metropolitan areas are New York, Los Angeles, and Chicago, and its three most populous states are California, Texas, and Florida.
+Paleo-Indians migrated from North Asia to North America over 12,000 years ago, and formed various civilizations. Spanish colonization led to the establishment in 1513 of Spanish Florida, the first European colony in what is now the continental United States. Subsequent British colonization, with the first settlement of the Thirteen Colonies in Virginia in 1607, saw these colonies expand. Forced migration of enslaved Africans provided the labor force necessary to make the plantation economy of the Southern Colonies economically viable. Clashes with the British Crown over taxation and the denial of parliamentary representation sparked the American Revolution, with the Second Continental Congress formally declaring independence on July 4, 1776. After winning the 1775–1783 Revolutionary War, the country continued to expand westward across North America, resulting in the dispossession of native inhabitants. As more states were admitted, a North–South division over slavery led to the secession of the Confederate States of America, which fought the Union in the 1861–1865 American Civil War. With the victory and preservation of the United States, slavery was abolished nationally. By 1900, the country had established itself as a great power, a status solidified after its involvement in World War I. Following Japans attack on Pearl Harbor in December 1941, the U.S. entered World War II. Its aftermath left the U.S. and the Soviet Union as the worlds superpowers and led to the Cold War, during which both countries struggled for ideological dominance and international influence. Following the Soviet Unions collapse and the end of the Cold War in 1991, the U.S. emerged as the worlds sole superpower.
+The U.S. national government is a presidential constitutional federal republic and liberal democracy with three separate branches: legislative, executive, and judicial. 
+It has a bicameral national legislature composed of the House of Representatives (a lower house based on population) and the Senate (an upper house based on equal representation for each state). 
+Federalism provides substantial autonomy to the 50 states. In addition, 574 Native tribes have sovereignty rights, with 326 reservations composing Indian country. American values are based on a democratic political tradition that draws its inspiration from the European Enlightenment movement. Since the 1850s, the Democratic and Republican parties have dominated American politics.
+A developed country, the U.S. ranks high in economic competitiveness, productivity, innovation, and higher education. 
+The U.S. accounted for over a quarter of nominal global economic output in 2024, and its economy has been the worlds largest by nominal GDP since about 1890. 
+It possesses the most wealth of any country and has the highest disposable household income per capita among OECD countries, though U.S. 
+wealth inequality is one of the most pronounced in those countries. 
+A melting pot of many ethnicities and customs, the culture of the U.S. has been shaped by centuries of immigration, and its soft power influence has a global reach. 
+The U.S. is a member of multiple international organizations and plays a leading role in global political, cultural, economic, and military affairs. 
+Documented use of the phrase United States of America dates back to January 2, 1776.
+Flash that buttery gold
+Jittery zeitgeist, wither by the watering hole, what a patrol
+What are we to Heart Huckabee, art fuckery suddenly
+Not enough young in his lung for the water wings
+Colorfully vulgar poacher, out of mulch
+Like, Ima pull the pulse out a soldier and bolt
+Fine, sign of the time we elapse
+When a primate climb up a spine and attach
+Eye for an eye, by the bog life swamps and vines
+They get a rise out of frogs and flies
+So when a dogfights hog-tied prize sort of costs a life
+The mouths water on a fork and knife
+And the allure isnt right
+No score on a war-torn beach
+Where the cash cows actually beef
+Blood turns wine when it leak for police
+Like, Thats not a riot; its a feast, lets eat!
+And I will remember your name and face
+On the day you are judged by The Funhouse cast
+And I will rejoice in your fall from grace
+With a cane to the sky, like, None shall pass
+None shall pass, none shall pass
+One for the money, two for the better green
+3, 4-methylenedioxy-methamphetamine 
+Wicked, wicked, wicked on the electroensophonograph
+The G-type main-sequence star emits intense electromagnetic radiation across the visible spectrum.
